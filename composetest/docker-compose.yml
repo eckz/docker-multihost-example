@@ -1,0 +1,6 @@
+web:
+  image: eckz/counter
+  ports:
+   - "80:5000"
+redis:
+  image: redis

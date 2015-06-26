@@ -1,0 +1,7 @@
+{
+    "server": true,
+    "datacenter": "multihost",
+    "client_addr": "0.0.0.0",
+    "data_dir": "/var/lib/consul",
+    "ui_dir": "/usr/local/share/consul/web-ui"
+}
